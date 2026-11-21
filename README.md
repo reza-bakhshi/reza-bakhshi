@@ -17,4 +17,4 @@ I develop firmware, design PCBs, and work with embedded Linux. My projects focus
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/rezabakhshi98/)
+[LinkedIn](https://www.linkedin.com/in/rezabakhshi98/) · [reza.bakhshi.ee@gmail.com](mailto:reza.bakhshi.ee@gmail.com)
