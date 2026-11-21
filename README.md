@@ -1,4 +1,6 @@
-<img src="assets/overview-banner.jpg" width="100%" alt="PCB illustration with copper traces and a microcontroller">
+<p align="center">
+  <img src="assets/overview-photo.png" width="680" alt="Close-up of a microcontroller and surrounding PCB components">
+</p>
 
 # Embedded Systems Engineer
 
