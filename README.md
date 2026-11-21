@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/overview-photo.png" width="680" alt="Close-up of a microcontroller and surrounding PCB components">
+  <img src="assets/overview-pcb-banner.jpg" width="660" alt="Wide, cool-toned close-up of a microcontroller on a circuit board">
 </p>
 
 # Embedded Systems Engineer
