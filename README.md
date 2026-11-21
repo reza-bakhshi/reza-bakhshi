@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/overview-pcb-banner.jpg" width="660" alt="Wide, cool-toned close-up of a microcontroller on a circuit board">
+  <img src="assets/overview-anime-banner.webp" width="660" alt="Wide anime banner featuring a smiling character in round sunglasses">
 </p>
 
 # Embedded Systems Engineer
