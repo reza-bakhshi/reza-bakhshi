@@ -6,8 +6,6 @@
 
 I develop firmware, design PCBs, and bring up embedded Linux boards. I also build tools for probing digital interfaces, capturing signals, and inspecting serial data.
 
-[LinkedIn](https://www.linkedin.com/in/rezabakhshi98/) · [reza.bakhshi.ee@gmail.com](mailto:reza.bakhshi.ee@gmail.com)
-
 ## Featured project
 
 ### RB-Pirate
@@ -45,3 +43,7 @@ A bench tool for debugging embedded hardware over I²C, SPI, and UART. The RP235
 ### Embedded Linux case study
 
 Recovering a Hi-Link HLK-7628N by backing up SPI flash, preserving Wi-Fi calibration data, and bringing up OpenWrt. [Read the recovery notes](https://github.com/reza-bakhshi/Reviving-a-Dead-Hi-Link-HLK-7628N)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rezabakhshi98/) · [reza.bakhshi.ee@gmail.com](mailto:reza.bakhshi.ee@gmail.com)
